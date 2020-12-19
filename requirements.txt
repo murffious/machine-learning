@@ -1,6 +1,0 @@
-matplotlib
-pandas
-sklearn 
-yellowbrick
-pandas_profiling
-xlrd
