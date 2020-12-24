@@ -1,3 +1,3 @@
-# machine-learning
+# Artificial Intelligence, Machine Learning, Deep Learning
 
--- My First models using various techniques
+Projects to build my skills to become and ML engineer and AI specialist
