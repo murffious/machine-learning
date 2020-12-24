@@ -41,6 +41,10 @@ I robot- make some laws- and knoweldge about God and write a ROBOT or DL model p
 Ghost in the Shell or the one show with the falling in love with the RObot- finding out how to make you fall in love
 Emotions - Deciet
 
+Scan a document for geneology - indexing
+https://scikit-learn.org/0.19/datasets/mldata.html
+https://bit.ly/3iG8oRY Nueral Networks
+https://bit.ly/2KnRWKl /machine-learning-algorithms-for-beginners-with-python-code-examples-m
 Food systems
 Recommend a food item to add to a meal based on macros goal
 Recommend a full meal to add to a day plan - based on past, recent or nutrition coach or goals or popular (4)
