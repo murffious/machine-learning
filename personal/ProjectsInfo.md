@@ -2,8 +2,9 @@ BLOG AI
 
 An Education of Practical AI from Hollywood blockbusters/tv shows
 
-matrix - duh.
 Person of Interest - ML
+
+- Facial recognition - person of interest mulitiple to ONE
 
 1. Find a way to get some dummy or real public data and show at least one application of ML or more - spit out a # … based on a risk score \_ linear regression
 
@@ -29,12 +30,12 @@ Chappie - NLP
 
 Blade runner 2049
 
-1. Create an AI bot with a mission -
-
-- Facial recognition - person of interest
+1. Create an AI bot with a mission - or speech recogtintion - alexa speech test
 
 I have a Azure Devops board - for 2021 GET an ML job bt october 2021
 109k income
+
+matrix - duh.
 
 I robot- make some laws- and knoweldge about God and write a ROBOT or DL model poneying those as the weights detereminatns
 
