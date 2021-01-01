@@ -1,7 +1,6 @@
 | Day | Project                                | Time |
-| --- | -------------------------------------- | ---- |
-|     | Person of Interest                     |      |
-|     | Googel ML course                       |      |
+| --- | -------------------------------------- | ---- | --- |
+|     | Person of Interest Googel ML course    |      | up  |
 |     | Tron Ai course                         |      |
 |     | Terminator                             |      |
 |     | KAGGLE Titanic                         |      |
@@ -14,7 +13,7 @@
 |     | Chappie                                |      |
 |     | machine-learning-algorithms ex:        |      |
 |     | Blade Runner 1-2                       |      |
-|     | Coursera ML ..                         |      |
+|     | Coursera ML .. pick 1 andrew nG        |      |
 |     | Ex Machina                             |      |
 |     | KARD job skills recommend              |      |
 |     | RecommenderSystems - Food App          |      |
