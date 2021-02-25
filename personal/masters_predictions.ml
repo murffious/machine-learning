@@ -36,3 +36,4 @@ Says he uses a learning technique to study other fields and correlate to his pro
 
 IV. What people feel after GC - Mosiah 5:2 Phd educational stuff psychology 
 
+V.  Music and lyrics NLP
