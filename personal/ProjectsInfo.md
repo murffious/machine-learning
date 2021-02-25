@@ -42,6 +42,9 @@ I robot- make some laws- and knoweldge about God and write a ROBOT or DL model p
 Ghost in the Shell or the one show with the falling in love with the RObot- finding out how to make you fall in love
 Emotions - Deciet
 
+Scrabble game - AI NLP
+
+
 Scan a document for geneology - indexing
 https://scikit-learn.org/0.19/datasets/mldata.html
 https://bit.ly/3iG8oRY Nueral Networks
