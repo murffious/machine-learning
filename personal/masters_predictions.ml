@@ -1,7 +1,7 @@
-ml file extension for Machine Learning
+ml file extension for Machine Learning - would be fun to invent that, syntax etc  Rain fall js app 
 
 
-How is Amazon like the Roman Empire of old if so...?
+
 
 
 
@@ -9,8 +9,11 @@ I. Tech and Govt' Policy predictions
 Wild West and Trains- Telegraph Banks Robbers, IDEAS and Enginenering and Weapons books
 Laws 
 Tech to pass them 
+After that of the past use it to predict future with security based predictions for AI 
+Applications 
+Prredict- city growth and need for policy based on tech/science growth patterns. 
 
-II. Patterns of Rise and Fall (amazon is not falling lol) just seeking a possible correlation
+II. Patterns of Rise and Fall (amazon is not falling lol) just seeking a possible correlation - How is Amazon like the Roman Empire of old if so...?
 Rome
 Precursor:grew from a small town
 The man: 
@@ -29,3 +32,7 @@ Reads a ton
 
 
 Says he uses a learning technique to study other fields and correlate to his profession for example. 
+
+
+IV. What people feel after GC - Mosiah 5:2 Phd educational stuff psychology 
+
