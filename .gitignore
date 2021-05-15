@@ -2,3 +2,4 @@
 env
 .DS_Store
 google_ml_course/5-celebrity-faces-dataset/*
+.idea
